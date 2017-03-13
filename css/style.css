@@ -8,8 +8,9 @@ section p {
 	color: #454545;
 }
 section h1 {
+	/**change h1 font to lucida**/
 	color: #00358c;
-	font: 32px 'Open Sans';
+	font: 32px 'Lucida' sans-serif;
 	font-weight: bold;
 }
 section p {
